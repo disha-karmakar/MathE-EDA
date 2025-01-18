@@ -24,7 +24,7 @@ The **MathE Mathematics Learning and Assessment** project provides a comprehensi
 
 ### 1. **Exploratory Data Analysis**
 - **Univariate Analysis**: Distributions and frequencies of numerical and categorical features.
-- **Bivariate and Multivariate Analysis**: Correlation heatmaps, pairplots, and box plots to study relationships between features.
+- **Bivariate and Multivariate Analysis**: Correlation heatmaps, pair plots, and box plots to study relationships between features.
 
 ### 2. **Clustering Analysis**
 - **K-Means Clustering**:
@@ -50,7 +50,7 @@ The **MathE Mathematics Learning and Assessment** project provides a comprehensi
 
 1. **Performance Trends**:
    - Students performed better on basic questions compared to advanced ones.
-   - Certain topics consistently had higher performance scores, suggesting varying levels of difficulty.
+   - Certain topics consistently had higher performance scores, suggesting varying levels of difficulties.
 
 2. **Clustering Insights**:
    - Clusters revealed distinct performance groups, helping identify high and low performers.
@@ -67,7 +67,7 @@ The **MathE Mathematics Learning and Assessment** project provides a comprehensi
 ## Visual Highlights
 
 ### 1. Geo-Mapping
-![Geo-Mapping](output/newplot.png)
+![Geo-Mapping](output/geomapping.png)
 
 ### 2. PCA 3D Scatter Plot
 ![3D Scatter Plot](output/newplot.png)
